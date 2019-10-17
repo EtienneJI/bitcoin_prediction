@@ -1,6 +1,6 @@
 dependencies:
   - python=3.7
-  - pip3:
+  - pip:
     - spacy
     - ipykernel
     - scipy
