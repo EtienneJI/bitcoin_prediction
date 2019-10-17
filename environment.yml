@@ -12,6 +12,5 @@ dependencies:
     - datetime
     - seaborn
     - keras
-    - math
     - plotly
     - tensorflow
